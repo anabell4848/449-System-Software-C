@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1402130900 source:c:\users\anabe_000\desktop\1501p1 mastermind\mastermind.c
+	<stdio.h>
+	<stdlib.h>
+

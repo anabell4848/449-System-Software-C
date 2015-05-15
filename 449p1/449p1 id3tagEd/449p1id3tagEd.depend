@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1402168256 source:c:\users\anabe_000\desktop\449p1id3taged\id3taged.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
